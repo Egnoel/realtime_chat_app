@@ -1,6 +1,3 @@
-Here's a general README structure you can use for future projects. It's designed to be adaptable, so you can modify or expand each section based on the specific needs of your project.
-
----
 
 # Realtime Chat App
 
